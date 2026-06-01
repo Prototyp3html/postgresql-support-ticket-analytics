@@ -242,22 +242,22 @@ Features:
 # Dashboard Screenshots
 
 ## Executive Overview
-![Executive Overview](screenshots/Executive Overview page.png)
+![Executive Overview](screenshots/Executive%20Overview%20page.png)
 
 ---
 
 ## Operational Analytics
-![Operational Analytics](screenshots/Operational Analytics page.png)
+![Operational Analytics](screenshots/Operational%20Analytics%20page.png)
 
 ---
 
 ## Customer & Product Insights
-![Customer Insights](screenshots/Customer Insights page.png)
+![Customer Insights](screenshots/Customer%20Insights%20page.png)
 
 ---
 
 ## Data Model
-![Data Model](screenshots/Model relationships.png)
+![Data Model](screenshots/Model%20relationships.png)
 
 ---
 
