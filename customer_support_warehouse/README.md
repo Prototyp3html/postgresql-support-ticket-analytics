@@ -322,14 +322,6 @@ Through this project, I learned:
 
 ---
 
-# Resume Description
-
-```text
-Built a PostgreSQL-based customer support analytics warehouse with ETL transformations, star schema modeling, KPI engineering, SQL optimization, and interactive Power BI dashboards for operational reporting and SLA analysis.
-```
-
----
-
 # Future Improvements
 
 Potential future enhancements:
