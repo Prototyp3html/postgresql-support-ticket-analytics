@@ -52,9 +52,7 @@ Paste your Mermaid diagram image here later.
 
 Example:
 
-```markdown
 ![Architecture Diagram](docs/architecture_diagram.png)
-```
 
 ---
 
@@ -244,30 +242,22 @@ Features:
 # Dashboard Screenshots
 
 ## Executive Overview
-```markdown
-![Executive Overview](customer_support_warehouse/screenshots/Executive Overview page.png)
-```
+![Executive Overview](screenshots/Executive%20Overview%20page.png)
 
 ---
 
 ## Operational Analytics
-```markdown
-![Operational Analytics](customer_support_warehouse/screenshots/Operational Analytics page.png)
-```
+![Operational Analytics](screenshots/Operational%20Analytics%20page.png)
 
 ---
 
 ## Customer & Product Insights
-```markdown
-![Customer Insights](customer_support_warehouse/screenshots/Customer Insights page.png)
-```
+![Customer Insights](screenshots/Customer%20Insights%20page.png)
 
 ---
 
 ## Data Model
-```markdown
-![Data Model](customer_support_warehouse/screenshots/Model relationships.png)
-```
+![Data Model](screenshots/Model%20relationships.png)
 
 ---
 
